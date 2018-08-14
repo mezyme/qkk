@@ -1,2 +1,22 @@
-# qkk
-去看看H5分享页的Vue版本
+# qkk - 去看看Vue版本重构
+
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm start
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
